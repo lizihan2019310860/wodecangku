@@ -18,7 +18,7 @@ Java experiment
 4.在main方法中创建一个HardDisk对象disk，disk将自己的amount设置为200。
 
 ## 核心方法
-1.首先进行框架设计，在Test主类下有CPU、HardDisk、PC三个分类，主类从分类调取参数并设计和调用显示函数show ()从而达到显示CPU速度以及硬盘容量的目的。
+1.先进行框架设计，在Test主类下有CPU、HardDisk、PC三个分类，主类从分类调取参数并设计和调用显示函数show ()从而达到显示CPU速度以及硬盘容量的目的。
 2.创建项目Experiment,并创建包one,在此包下进行类的创建和编写。
 3.创建CPU 1类，创建参数speed,并创建方法getSpeed,用于之后为speed赋值。
 4.创建HardDisk. 1类，创建参数amonut, 并创建方法getAmount,用于之后为amount斌值。
